@@ -1,0 +1,12 @@
+# Ignorar arquivo de configuração com credenciais
+config.py
+Arquivamento.ipynb 
+arquivamento.py 
+TJ claude NV C7 atual copy 2.ipynb 
+TJ claude NV C7 atual copy.ipynb Valor da causa nao ha.py
+
+# Outros arquivos comuns para ignorar
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/

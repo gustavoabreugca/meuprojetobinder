@@ -1,0 +1,8 @@
+# Ignorar arquivo de configuração com credenciais
+config.py
+
+# Outros arquivos comuns para ignorar
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
